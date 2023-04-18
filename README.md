@@ -4,7 +4,6 @@ a portfolio website
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>NSR's Portfolio</title>
 </head>
 <body>
     <h1>NSR's Portfolio</h1>
